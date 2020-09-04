@@ -6,7 +6,7 @@
 #include <vector>
 
 /**
- *  Example class used for GTest demo
+ *  Example class used for GTest demo I want to push push push push
  */
 class CPPLib {
  public:
